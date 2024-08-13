@@ -1,0 +1,6 @@
+button_cancel_id="cancel"
+textbox_username_name="userName"
+textbox_password_id="password"
+button_login_id="login-text-id"
+button_cancel_message="cancel"
+text_popupafterinvalidlogin_xpath="//div[@id='message-dialog-content-id']"

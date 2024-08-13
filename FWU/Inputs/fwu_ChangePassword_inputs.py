@@ -1,0 +1,18 @@
+marketadminuser = "mktadminauto"
+password8 = "XYZxy1@"
+passwordcomb = "aaaaaaaa"
+passwordlast = "XYZxyz@1234"
+passwordknown = "mktadmin1990@"
+passwordsimple = "ASDFasdf@12"
+eightcharvalidation_English= "New password must have minimum 8 characters."
+eightcharvalidation_Italian= "La nuova password deve contenere almeno 8 caratteri."
+combvalidation_English = "Password should be 8 characters long and must contain letter, number and special characters."
+combvalidation_Italian = "La password deve contenere 8 caratteri e deve contenere lettere, numeri e caratteri speciali."
+lasttfvalidation_English = "Last 24 passwords must not be reused."
+lasttfvalidation_Italian = "Le ultime 24 password non devono essere riutilizzate."
+knownpassword_Italian = "Le password non devono basarsi su qualcosa che qualcuno potrebbe facilmente indovinare o ottenere attraverso informazioni personali come nome utente ecc."
+knownpassword_English = "Passwords must not be based on anything somebody could easily guess or obtain through personal information such as user name etc."
+simplepassword_Italian = "La password non deve contenere combinazioni di tasti comuni."
+simplepassword_English = "Password must not contain common keyboard combinations."
+
+

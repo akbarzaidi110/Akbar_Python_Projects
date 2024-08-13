@@ -1,0 +1,7 @@
+Url="https://app01.fwupakistan.com/italy/?duc=720407"
+username="nimda"
+marketadminuser= "mktadminauto"
+password="XYZxyz1234"
+invalidpassword="XYZxyz@1234"
+afterlogin_startup_text_italian="Utente o password errata."
+afterlogin_startup_text_English="Invalid user or password."

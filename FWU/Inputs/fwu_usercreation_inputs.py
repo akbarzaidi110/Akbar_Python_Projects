@@ -1,0 +1,5 @@
+searchuser="30052024"
+username="akbar.raza"
+password="XYZxyz@1234"
+confirmpassword="XYZxyz@1234"
+salutation="Mr."
